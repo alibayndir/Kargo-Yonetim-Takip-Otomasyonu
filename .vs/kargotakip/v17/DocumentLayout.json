@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ali\\source\\repos\\kargotakip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60DA1530-B6C3-4156-B42B-5D8B1ABA194D}|kargotakip\\kargotakip.csproj|c:\\users\\ali\\source\\repos\\kargotakip\\kargotakip\\frm kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60DA1530-B6C3-4156-B42B-5D8B1ABA194D}|kargotakip\\kargotakip.csproj|solutionrelative:kargotakip\\frm kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60DA1530-B6C3-4156-B42B-5D8B1ABA194D}|kargotakip\\kargotakip.csproj|c:\\users\\ali\\source\\repos\\kargotakip\\kargotakip\\frm kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60DA1530-B6C3-4156-B42B-5D8B1ABA194D}|kargotakip\\kargotakip.csproj|solutionrelative:kargotakip\\frm kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60DA1530-B6C3-4156-B42B-5D8B1ABA194D}|kargotakip\\kargotakip.csproj|C:\\Users\\Ali\\source\\repos\\kargotakip\\kargotakip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60DA1530-B6C3-4156-B42B-5D8B1ABA194D}|kargotakip\\kargotakip.csproj|solutionrelative:kargotakip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm Kategori.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\kargotakip\\kargotakip\\frm Kategori.cs",
+              "RelativeDocumentMoniker": "kargotakip\\frm Kategori.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\kargotakip\\kargotakip\\frm Kategori.cs",
+              "RelativeToolTip": "kargotakip\\frm Kategori.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T01:15:05.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm Kategori.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\kargotakip\\kargotakip\\frm Kategori.cs",
+              "RelativeDocumentMoniker": "kargotakip\\frm Kategori.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\kargotakip\\kargotakip\\frm Kategori.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kargotakip\\frm Kategori.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T01:15:01.636Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\kargotakip\\kargotakip\\Form1.cs",
+              "RelativeDocumentMoniker": "kargotakip\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\kargotakip\\kargotakip\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kargotakip\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T07:41:12.792Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

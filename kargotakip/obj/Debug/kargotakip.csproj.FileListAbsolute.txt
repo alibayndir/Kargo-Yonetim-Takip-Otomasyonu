@@ -1,0 +1,16 @@
+C:\Users\Ali\source\repos\kargotakip\kargotakip\obj\Debug\kargotakip.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\kargotakip\kargotakip\obj\Debug\kargotakip.Form1.resources
+C:\Users\Ali\source\repos\kargotakip\kargotakip\obj\Debug\kargotakip.Properties.Resources.resources
+C:\Users\Ali\source\repos\kargotakip\kargotakip\obj\Debug\kargotakip.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\kargotakip\kargotakip\obj\Debug\kargotakip.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\kargotakip\kargotakip\bin\Debug\kargotakip.exe.config
+C:\Users\Ali\source\repos\kargotakip\kargotakip\bin\Debug\kargotakip.exe
+C:\Users\Ali\source\repos\kargotakip\kargotakip\bin\Debug\kargotakip.pdb
+C:\Users\Ali\source\repos\kargotakip\kargotakip\obj\Debug\kargotakip.exe
+C:\Users\Ali\source\repos\kargotakip\kargotakip\obj\Debug\kargotakip.pdb
+C:\Users\Ali\source\repos\kargotakip\kargotakip\obj\Debug\kargotakip.frmMüşteriEkle.resources
+C:\Users\Ali\source\repos\kargotakip\kargotakip\obj\Debug\kargotakip.frmMüşteriListele.resources
+C:\Users\Ali\source\repos\kargotakip\kargotakip\obj\Debug\kargotakip.frm_Kategori.resources
+C:\Users\Ali\source\repos\kargotakip\kargotakip\obj\Debug\kargotakip.frmMarka.resources
+C:\Users\Ali\source\repos\kargotakip\kargotakip\obj\Debug\kargotakip.frmÜrünEkle.resources
+C:\Users\Ali\source\repos\kargotakip\kargotakip\obj\Debug\kargotakip.frmÜrünListele.resources

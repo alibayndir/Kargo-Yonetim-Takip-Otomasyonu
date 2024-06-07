@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kargotakip", "kargotakip\kargotakip.csproj", "{60DA1530-B6C3-4156-B42B-5D8B1ABA194D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60DA1530-B6C3-4156-B42B-5D8B1ABA194D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60DA1530-B6C3-4156-B42B-5D8B1ABA194D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60DA1530-B6C3-4156-B42B-5D8B1ABA194D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60DA1530-B6C3-4156-B42B-5D8B1ABA194D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C57CF53C-1216-4FB1-9D93-999E4CBE9370}
+	EndGlobalSection
+EndGlobal
